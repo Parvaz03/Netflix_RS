@@ -49,12 +49,18 @@ It applies collaborative filtering or content-based filtering techniques to gene
 ## 📂 Project Structure
 Netflix_RS/
 │
-├── app.py # Main Flask application file
-├── requirements.txt # Python dependencies
-├── data/ # Dataset and processed files
+# Main Flask application file
+├── app.py 
+# Python dependencies
+├── requirements.txt 
+# Dataset and processed files
+├── data/ 
+# Utility scripts (model, preprocessing, etc.)
 ├── utils/ # Utility scripts (model, preprocessing, etc.)
-├── model/ # Saved models (if applicable)
-└── README.md # Project documentation
+# Saved models (if applicable)
+├── model/ 
+# Project documentation
+└── README.md 
 
 ---
 
